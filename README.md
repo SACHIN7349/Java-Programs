@@ -83,3 +83,5 @@ lab2 p6 o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/lab2%20
 lab2 p7 o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/lab2%20output/lab2p7.op.png
 
 lab2 p8 o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/lab2%20output/lab2p8.op.png
+
+lab2 p9 o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/lab2%20output/lab2p9.op.png
