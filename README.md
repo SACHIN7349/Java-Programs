@@ -36,3 +36,6 @@ lab5 image button o/p link: https://github.com/SACHIN7349/Java-Programs/blob/mai
 lab5 mouseevent o/p link: https://github.com/SACHIN7349/Java-Programs/blob/main/lab5%20op/mouseevent.op.png
 
 lab5 swing o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/lab5%20op/swing.output.png
+
+lab6 jlistcapitalexample : https://github.com/SACHIN7349/Java-Programs/blob/main/la6%20output/jlistcapitalexample.png
+
