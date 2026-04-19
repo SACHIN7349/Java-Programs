@@ -20,3 +20,9 @@ lab1 p8 o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/lab%20p
 lab1 p9 o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/lab%20program%201%20output/p9op.png
 
 lab1 p10 o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/lab%20program%201%20output/p10op.png
+
+lab3 stringbuildingfunction o/p link :https://github.com/SACHIN7349/Java-Programs/blob/main/lab2%20output/stringbuildingfunctionsoutput.png
+
+lab3 stringbuildingdemo o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/lab2%20output/stringhandlingdemooutput.png
+
+
