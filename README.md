@@ -52,3 +52,5 @@ lab7b factorialservlet o/p link : https://github.com/SACHIN7349/Java-Programs/bl
 lab7c primeservlet o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/lab7c%20output/primesevlet.out.png
 
 lab 8a cookieservlet o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/lab8a%20output/cookieservlet.output.png
+
+lab8b cookie o/p link: https://github.com/SACHIN7349/Java-Programs/blob/main/lab8b%20output/cookieserve.out.png
