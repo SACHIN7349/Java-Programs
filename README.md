@@ -69,3 +69,6 @@ lab10b resultservlet o/p link : https://github.com/SACHIN7349/Java-Programs/blob
 lab2 MapInterFaceDemo o\p link : https://github.com/SACHIN7349/Java-Programs/blob/main/lab2%20output/mapinterfacedemo.op.png
 
 lab2 p1 o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/lab2%20output/lab2p1.op.png
+
+lab2 p2 o/p link: https://github.com/SACHIN7349/Java-Programs/blob/main/lab2%20output/lab2p2.op.png
+
