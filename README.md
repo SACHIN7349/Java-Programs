@@ -48,3 +48,6 @@ lab6 tabbedpaneexample o/p link : https://github.com/SACHIN7349/Java-Programs/bl
 lab7a helloworldsecond o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/lab7a%20op/helloworldsecond%20output.png
 
 lab7b factorialservlet o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/lab7b%20op/factorial.out.png
+
+lab7c primeservlet o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/lab7c%20output/primesevlet.out.png
+
