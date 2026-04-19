@@ -56,3 +56,5 @@ lab 8a cookieservlet o/p link : https://github.com/SACHIN7349/Java-Programs/blob
 lab8b cookie o/p link: https://github.com/SACHIN7349/Java-Programs/blob/main/lab8b%20output/cookieserve.out.png
 
 lab9a sessiontracking o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/lab9a%20output/sessiontracking.out.png
+
+lab9b session management  o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/lab9b%20output/lab9bop.png
