@@ -65,3 +65,6 @@ lab10a userdataservlet o/p link: https://github.com/SACHIN7349/Java-Programs/blo
 
 
 lab10b resultservlet o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/lab10b.output/resultservlet.op.png
+
+lab2 MapInterFaceDemo o\p link : https://github.com/SACHIN7349/Java-Programs/blob/main/lab2%20output/mapinterfacedemo.op.png
+
