@@ -40,3 +40,6 @@ lab5 swing o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/lab5
 lab6 jlistcapitalexample o/p link: https://github.com/SACHIN7349/Java-Programs/blob/main/la6%20output/jlistcapitalexample.png
 
 lab6 jlist example o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/la6%20output/jlistexample.png
+
+lab6 tabbedpanecolor o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/la6%20output/tabbedpanecolor.png
+
