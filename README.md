@@ -61,4 +61,7 @@ lab9b session management  o/p link : https://github.com/SACHIN7349/Java-Programs
 
 lab9c session expiry o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/lab9c%20op/sessionexpiry.out.png
 
+lab10a userdataservlet o/p link: https://github.com/SACHIN7349/Java-Programs/blob/main/lab10a.op/userdataservlet.op.png
+
+
 lab10b resultservlet o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/lab10b.output/resultservlet.op.png
