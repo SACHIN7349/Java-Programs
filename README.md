@@ -10,3 +10,5 @@ lab1 p3 o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/lab%20p
 lab1 p4 o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/lab%20program%201%20output/p40p.png
 
 lab1 p5 o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/lab%20program%201%20output/p5op.png
+
+lab1 p6 o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/lab%20program%201%20output/p6op.png
