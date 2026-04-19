@@ -23,3 +23,6 @@ lab1 p10 o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/lab%20
 
 lab3 stringbuildingfunction o/p link :https://github.com/SACHIN7349/Java-Programs/blob/main/lab2%20output/stringbuildingfunctionsoutput.png
 
+lab3 stringbuildingdemo o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/lab2%20output/stringhandlingdemooutput.png
+
+
