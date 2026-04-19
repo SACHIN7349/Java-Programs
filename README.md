@@ -43,3 +43,4 @@ lab6 jlist example o/p link : https://github.com/SACHIN7349/Java-Programs/blob/m
 
 lab6 tabbedpanecolor o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/la6%20output/tabbedpanecolor.png
 
+lab6 tabbedpaneexample o/p link : https://github.com/SACHIN7349/Java-Programs/blob/main/la6%20output/tabbedpaneexample.png
